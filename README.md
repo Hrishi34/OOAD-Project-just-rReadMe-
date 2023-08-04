@@ -1,4 +1,4 @@
-# **This is project that was developed as a part of OOAD project in 6th sem using spring boot IDE. This only contains the readme component of the actual project. The actual project is not public due to privacy reasons.**
+**This is project that was developed as a part of OOAD project in 6th sem using spring boot IDE. This only contains the readme component of the actual project. The actual project is not public due to privacy reasons.**
 
 
 # Problem Statement
